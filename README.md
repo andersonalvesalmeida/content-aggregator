@@ -1,5 +1,10 @@
 # content-aggregator
 
 ## Entity
-  * Post
+  * Content
+    * Title
+    * URL (slug)
+    * Image
+    * content
+
   * Site
